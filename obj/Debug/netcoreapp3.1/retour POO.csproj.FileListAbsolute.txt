@@ -1,0 +1,13 @@
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.csprojAssemblyReference.cache
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.AssemblyInfoInputs.cache
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.AssemblyInfo.cs
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.csproj.CoreCompileInputs.cache
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\bin\Debug\netcoreapp3.1\retour POO.exe
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\bin\Debug\netcoreapp3.1\retour POO.deps.json
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\bin\Debug\netcoreapp3.1\retour POO.runtimeconfig.json
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\bin\Debug\netcoreapp3.1\retour POO.runtimeconfig.dev.json
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\bin\Debug\netcoreapp3.1\retour POO.dll
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\bin\Debug\netcoreapp3.1\retour POO.pdb
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.dll
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.pdb
+M:\AUTOMNE 2020\bd\retour POO\retour POO\retour POO\obj\Debug\netcoreapp3.1\retour POO.genruntimeconfig.cache
